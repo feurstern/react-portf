@@ -40,19 +40,17 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m passively looking for new positions where I can merge my
-              love for code with my love for the canvas. If you think
-              you&apos;ve got an opening that I might like, let&apos;s connect
+             I just want to become better and better!
               🔗
             </p>
           </Reveal>
           <Reveal>
             <div className={styles.links}>
               <div className={styles.linksText}>
-                <span>My links</span>
-                <AiOutlineArrowRight />
+                {/* <span>My links</span>
+                <AiOutlineArrowRight /> */}
               </div>
-              <MyLinks />
+              {/* <MyLinks /> */}
             </div>
           </Reveal>
         </div>

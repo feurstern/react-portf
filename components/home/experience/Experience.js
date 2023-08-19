@@ -14,31 +14,27 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
-    position: "Software Engineer",
-    time: "2022 - Present",
-    location: "Atlanta",
+    title: "SMK Mandiri Bekasi",
+    position: "IT Teacher, Lab Coordinator, IT Support",
+    time: " December 2019 - June 2022",
+    location: "Pondok Ungu, South Bekasi",
     description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
+     "This is my first job and I learnt so much during my work time, for example for being confident. I taught for Design and IT(Simdig) subject for all the classes and I alsoe become IT support.",
     tech: [
-      "Angular",
-      "Python",
-      "GCP",
-      "Git",
-      "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
+      "Photoshop",
+      "Illustrator",
+      "Ms Office",
+      "2d animation",
     ],
   },
   {
-    title: "Facebook",
-    position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    title: "Alexandria Islamic School",
+    position: "Digital Maerketing Coach",
+    time: " August 2021 - October 2021",
+    location: "Rawalumbu, East Bekasi",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
+      "I was teaching Digital Marketing as subitute teacher and I use blogspot, mailchimp to promote the product, and also the copywriting one",
+    tech: ['Mailchimp','Blogspot', 'Copywrting', 'flyer', 'design'],
   },
   {
     title: "Amazon",

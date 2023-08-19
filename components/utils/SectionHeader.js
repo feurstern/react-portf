@@ -1,7 +1,7 @@
 import styles from "./header.module.scss";
 import { Reveal } from "./Reveal";
 
-export const SectionHeader = ({ title, dir = "r" }) => {
+export const SectionHeader = ({ title, dir = "l" }) => {
   return (
     <div
       className={styles.sectionHeader}
