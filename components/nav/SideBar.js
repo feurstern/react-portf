@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./sidebar.module.scss";
 import { motion } from "framer-motion";
+import { set } from "animejs";
 
 export const SideBar = () => {
   const [selected, setSelected] = useState("");
@@ -33,7 +34,7 @@ export const SideBar = () => {
       className={styles.sideBar}
     >
       <span className={styles.logo}>
-        B<span>.</span>
+        <span>Rio</span>
       </span>
       <motion.a
         initial={{ x: -70 }}
@@ -67,10 +68,22 @@ export const SideBar = () => {
       >
         Exp.
       </motion.a>
+
+      <motion.a
+      initial={{x:-70}}
+      animate ={{x:0}}
+      transition={{duration: 0.5, delay:0.4}}
+      href="#organization"
+      onClick={()=>setSelected('organization')}
+      className={selected === 'organization' ? styles.selected : ''}
+      >
+      Org.
+
+      </motion.a>
       <motion.a
         initial={{ x: -70 }}
         animate={{ x: 0 }}
-        transition={{ duration: 0.5, delay: 0.4 }}
+        transition={{ duration: 0.5, delay: 0.5 }}
         href="#contact"
         onClick={() => setSelected("contact")}
         className={selected === "contact" ? styles.selected : ""}
