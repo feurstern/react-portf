@@ -3,7 +3,7 @@ import { ExperienceItem } from "./OrganizationItem";
 
 export const Organization = () => {
   return (
-    <section className="section-wrapper" id="experience">
+    <section className="section-wrapper" id="organization">
       <SectionHeader title="Organization" dir="l" />
       {organization.map((item) => (
         <ExperienceItem key={item.title} {...item} />

@@ -22,18 +22,13 @@ export const Contact = () => {
             >
               Linkedin
             </Link>{" "}
-            or{" "}
-            <Link href="https://www.twitter.com" target="_blank" rel="nofollow">
-              Twitter
-            </Link>{" "}
-            if that&apos;s more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">
-          <Link href="mailto:bob.ross@notreal.com">
+          <Link href="mailto:naziincolour123@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="2.4rem" />
-              <span>bob.ross@notreal.com</span>
+              <span>naziicolour123@gmail.com</span>
             </div>
           </Link>
         </Reveal>

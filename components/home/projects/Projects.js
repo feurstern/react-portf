@@ -18,11 +18,11 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
+    title: "Hinterweltlern",
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    projectLink: "https://youtu.be/zAnYX9X5ncY",
+    tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', ''],
     description:
       "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
     modalContent: (
