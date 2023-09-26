@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import styles from "./sidebar.module.scss";
 import { motion } from "framer-motion";
-import { set } from "animejs";
 
 export const SideBar = () => {
   const [selected, setSelected] = useState("");
@@ -34,7 +33,7 @@ export const SideBar = () => {
       className={styles.sideBar}
     >
       <span className={styles.logo}>
-        <span>Rio</span>
+        <span style={{backgroundColor : "white"}}><img src="project-imgs/logo.png"  height={`55px`}></img></span>
       </span>
       <motion.a
         initial={{ x: -70 }}

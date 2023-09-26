@@ -86,7 +86,7 @@ const experience = [
   {
     title: "Sekolah Bina Talenta Graha",
     position: "ICT Teacher , IT Support",
-    time: " July 2022 - March 2023",
+    time: " July 2022 - January 2023",
     location: "Harapan Indah, North Bekasi",
     description:
       "I teach for ICT subject which is using the international curricullum named as Edumedia, and beside being teacher I also become IT Support, and everyting that related with IT such as maintenance, assembling the part of computer, and even being technician + proctocl for ANBK's assessment",
@@ -137,10 +137,10 @@ const experience = [
   {
     title: "PT. Rajawali Konsulindo",
     position: "Frontend Developer",
-    time: "April 2023 - Present",
+    time: "Jan 2023 - Present",
     location: "West Jakarta",
     description:
-      "I am working as a Frontend developer and my tasks are making some design prototype for creating a new page, consume and implementing the REST-API by using AJAX, or Axios for client side, create a new landing page accroding the given draft, work well with other team like backend ",
+      "I am working as a Frontend developer and my tasks are making some design prototype for creating a new page, consume and implementing the REST-API by using AJAX, Axios or AlpineJS, create a new landing page or new a feature accroding the given draft, work well with other team like backend. Beside that my other task is to maintain and fix bug from bug report of the website ",
     tech: [
       'Javascript',
       'CI',

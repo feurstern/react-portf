@@ -19,10 +19,10 @@ export const Projects = () => {
 const projects = [
   {
     title: "Hinterweltlern",
-    imgSrc: "project-imgs/example-project.jpg",
+    imgSrc: "project-imgs/hinterweltlern.png",
     code: "https://www.github.com",
     projectLink: "https://youtu.be/zAnYX9X5ncY",
-    tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', '3dVector'],
+    tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', '3DVector'],
     description:
       "Hinterwelter the education game which is improving the archaic of learning and assessment of Perwajahan's subject ",
     modalContent: (
@@ -33,84 +33,102 @@ const projects = [
           the data that I had received from the weekly report of the score student that been underwent the test, it increased the score when they used education
           game as the media instead the conventional one.  
         </p>
+        <p>
+           The main objective of this game is the player should collected the items/dropable from reaching the mark of lesson point, beating 
+           the foes, and answer correctly. 
+        </p>
+        <p>The game is just only available for PC platform only which running Windows or Linux, and it requires decent GPU to run that game.</p>
       </>
     ),
   },
   {
     title: "Visual Novel :KKSI 2020 ",
-    imgSrc: "project-imgs/example-project.jpg",
+    imgSrc: "project-imgs/vs-kksi-1.png",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Unity", "VROID", "NaniNovel", "VisualNovel"],
+    projectLink: "https://youtu.be/P5wmlhGk6ws",
+    tech: ["Unity", "VROID", "NaniNovel", "VisualNovel", "C#"],
     description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+      "Visual Novel ",
     modalContent: (
       <>
         <p>
            I joined the competition of making 2d game during the KKSI 2020 with my team which consist of several students, four are the core
-           such as being programmer, game artist, game s
+           such as being programmer, game artist, story maker, and the other was being the voice actor/actress. Well this game is quite simple.
+           All you have to do just choose the proper path of the story, so if the player choose the wrong path, they will lose, and almost in every
+           chapter or events, the player should choose one the given scenario. For example when you choose A, then you're going to received different
+           result that depends on your choose.
         </p>
-      
+        <p>
+            I was so excited that I finally can made and manage such a big one that involved my own student.
+        </p>
       </>
     ),
   },
   {
-    title: "BrushWire",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
+    title: "Korean GDP",
+    imgSrc: "project-imgs/korea-gdp.png",
+    code: "",
+    projectLink: "https://dev.fracs.id/",
+    tech: ['Unity', 'C#'],
     description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+      "Do you wanna be the ototirer or the wise leader of your fatherland? Okay...",
     modalContent: (
       <>
         <p>
           Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
+          four college friends and scaled to {">"} 1 vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.htmlbillion requests per day.
           This was a fun one.
-        </p>
-        <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+        </p> 
       </>
     ),
   },
   {
-    title: "Paint Reference 4",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Python", "FastAPI", "SQLAlchemy"],
-    description:
-      "I couldn't think of another paint reference app, so here we are. I think you get the idea, right? Use your imagination 🌈",
-    modalContent: (
-      <>
-        <p>Alright, you got me. I&apos;m all out of paint references.</p>
-        <p>
-          Point is, use this space to explain a bit further WHAT this project
-          is, as well as what YOU contributed to it.
-        </p>
-        <p>You get the idea. Now more lorem {":)"}</p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
-      </>
-    ),
+     title : 'Portfolio Website',
+     imgSrc : 'project-imgs/portf.png',
+     code : '',
+     projectLink : '',
+     tech : ['NextJS', 'HTML', 'Sass', 'Git'],
+     description : 'Well how could you said you are frontend developer but you do not have only portfolio, and then here we go.',
+     modalContent: (
+        <>
+          <p>
+             This is project of my portfolio website. I want to show off the project that I've had worked before that I was
+             assigned as the PIC for references purposes.
+          </p>
+        </>
+     )
+
   },
+  {
+    title : 'FRAC Website',
+    imgSrc : 'project-imgs/frac.png',
+    code : '"https://github.com/feurstern/fracs-react',
+    projectLink : 'https://dev.fracs.id/',
+    tech : ['NextJS', 'HTML', 'Sass', 'Antd', 'SwiperJS', 'Axios', 'Tailwind', 'Git'],
+    description : 'The Web Certification of FRAC.',
+    modalContent: (
+       <>
+         <p>
+            When I am working as Frontend developer I was being assigned as the PIC of remake the website for the company.
+            I am using several framework and libraries such as NextJS and Tailiwnd for the development process. This web is
+            also cunsuming the API from other website by using Axios to render the data to the frontend side.
+         </p>
+       </>
+    )
+ },
+ {
+  title : 'BNSP Landing Page on Ourtoga',
+  imgSrc : 'project-imgs/bnsp.png',
+  code : '',
+  projectLink : 'https://ourtoga.com/bnsp-platform',
+  tech : ['CodeIgniter-3', 'HTML', 'CSS', 'JS', 'Bootstrap'],
+  description : 'The landing page of BNSP Platform',
+  modalContent :(
+    <>
+      <p>I was being assinged to make landing page of BNSP platform on Ourtoga website. </p>
+    </>
+  )
+ }
+ 
+ 
 ];
