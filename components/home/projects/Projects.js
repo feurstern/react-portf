@@ -22,71 +22,35 @@ const projects = [
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://youtu.be/zAnYX9X5ncY",
-    tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', ''],
+    tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', '3dVector'],
     description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+      "Hinterwelter the education game which is improving the archaic of learning and assessment of Perwajahan's subject ",
     modalContent: (
       <>
         <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
-        </p>
-        <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          During my final test I was making a education game called as Hinterweltlern. The game concept is just like 
+          RPG which the user playing as a female student named Ria. This game combine with the lesson and game at the same time, and according to
+          the data that I had received from the weekly report of the score student that been underwent the test, it increased the score when they used education
+          game as the media instead the conventional one.  
         </p>
       </>
     ),
   },
   {
-    title: "The Canvas Club",
+    title: "Visual Novel :KKSI 2020 ",
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
+    tech: ["Unity", "VROID", "NaniNovel", "VisualNovel"],
     description:
       "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
     modalContent: (
       <>
         <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
+           I joined the competition of making 2d game during the KKSI 2020 with my team which consist of several students, four are the core
+           such as being programmer, game artist, game s
         </p>
-        <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
-        </p>
-        <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+      
       </>
     ),
   },
