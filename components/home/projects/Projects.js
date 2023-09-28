@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Hinterweltlern",
     imgSrc: "project-imgs/hinterweltlern.png",
-    code: "https://www.github.com",
+    code: "",
     projectLink: "https://youtu.be/zAnYX9X5ncY",
     tech: ['Unity', 'VROID', 'C#', 'Photoshop', 'Premiere', '3DVector'],
     description:
@@ -44,7 +44,7 @@ const projects = [
   {
     title: "Visual Novel :KKSI 2020 ",
     imgSrc: "project-imgs/vs-kksi-1.png",
-    code: "https://www.github.com",
+    code: "",
     projectLink: "https://youtu.be/P5wmlhGk6ws",
     tech: ["Unity", "VROID", "NaniNovel", "VisualNovel", "C#"],
     description:
@@ -55,7 +55,7 @@ const projects = [
            I joined the competition of making 2d game during the KKSI 2020 with my team which consist of several students, four are the core
            such as being programmer, game artist, story maker, and the other was being the voice actor/actress. Well this game is quite simple.
            All you have to do just choose the proper path of the story, so if the player choose the wrong path, they will lose, and almost in every
-           chapter or events, the player should choose one the given scenario. For example when you choose A, then you're going to received different
+           chapter or events, the player should choose one the given scenario. For example when you choose A, then you are going to received different
            result that depends on your choose.
         </p>
         <p>
@@ -68,16 +68,15 @@ const projects = [
     title: "Korean GDP",
     imgSrc: "project-imgs/korea-gdp.png",
     code: "",
-    projectLink: "https://dev.fracs.id/",
+    projectLink: "https://feurstern.github.io/K-GDP/",
     tech: ['Unity', 'C#'],
     description:
-      "Do you wanna be the ototirer or the wise leader of your fatherland? Okay...",
+      "Do you wanna be the ototirer or the wise leader of your fatherland? Okay, play this game,your county fate is in your hand",
     modalContent: (
       <>
         <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.htmlbillion requests per day.
-          This was a fun one.
+          The player should conduct right and proper the decision for building the country, and should have decent knowledge
+          about the taxes. Improving Economic Growth: Cut Spending or Raise Taxes?
         </p> 
       </>
     ),
@@ -86,25 +85,24 @@ const projects = [
      title : 'Portfolio Website',
      imgSrc : 'project-imgs/portf.png',
      code : '',
-     projectLink : '',
+     projectLink : 'https://feurstern.github.io/K-GDP/',
      tech : ['NextJS', 'HTML', 'Sass', 'Git'],
      description : 'Well how could you said you are frontend developer but you do not have only portfolio, and then here we go.',
      modalContent: (
         <>
           <p>
-             This is project of my portfolio website. I want to show off the project that I've had worked before that I was
+             This is project of my portfolio website. I want to show off the project that I had worked before that I was
              assigned as the PIC for references purposes.
           </p>
         </>
      )
-
   },
   {
     title : 'FRAC Website',
     imgSrc : 'project-imgs/frac.png',
     code : '"https://github.com/feurstern/fracs-react',
     projectLink : 'https://dev.fracs.id/',
-    tech : ['NextJS', 'HTML', 'Sass', 'Antd', 'SwiperJS', 'Axios', 'Tailwind', 'Git'],
+    tech : ['NextJS', 'HTML', 'Sass', 'Antd', 'SwiperJS', 'Axios', 'Tailwind', 'Git', 'JSON'],
     description : 'The Web Certification of FRAC.',
     modalContent: (
        <>
@@ -125,7 +123,8 @@ const projects = [
   description : 'The landing page of BNSP Platform',
   modalContent :(
     <>
-      <p>I was being assinged to make landing page of BNSP platform on Ourtoga website. </p>
+      <p>I was being assinged to make landing page of BNSP platform on Ourtoga website.  I am using the stack such as
+      CodeIgniter-3, HTML, JS, Bootstrap, and jquery.</p>
     </>
   )
  }

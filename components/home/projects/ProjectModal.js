@@ -55,7 +55,10 @@ export const ProjectModal = ({
             </p>
             <div className={styles.links}>
               <Link target="_blank" rel="nofollow" href={code}>
-                <AiFillGithub /> source code
+                {
+                   code === "" ?  'no source code is available' : (<AiFillGithub />, 'source code') 
+                }
+                  
               </Link>
               <Link target="_blank" rel="nofollow" href={projectLink}>
                 <AiOutlineExport /> live project
