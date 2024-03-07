@@ -2,6 +2,7 @@ import { StandardButton } from "@/components/buttons/StandardButton";
 import { Reveal } from "@/components/utils/Reveal";
 import { DotGrid } from "./DotGrid";
 import styles from "./hero.module.scss";
+import Videobg from "./Video-bg";
 
 export const Hero = () => {
   return (
@@ -14,15 +15,16 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            I&apos;m a <span>Game developer and Frontend Developer</span>
+            I&apos;m a <span>Game developer 🎮 👾</span>
           </h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I am just an ordinary guy who love to learn tech such as web dev, game dev, and I also interested in Machine learning.
-            Well beside that, I wanna be polyglot too 	🇨🇳 🇯🇵 
+            I am just an ordinary guy who love to learn tech such as game developement, web developement, and I also interested in Machine learning.
+            Well beside that, I wanna be polyglot too 🇨🇳 🇯🇵
           </p>
         </Reveal>
+
         <Reveal>
           <StandardButton
             onClick={() => document.getElementById("contact")?.scrollIntoView()}

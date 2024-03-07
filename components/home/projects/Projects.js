@@ -115,16 +115,15 @@ const projects = [
     )
  },
  {
-  title : 'BNSP Landing Page on Ourtoga',
+  title : 'Ourtoga',
   imgSrc : 'project-imgs/bnsp.png',
   code : '',
-  projectLink : 'https://ourtoga.com/bnsp-platform',
+  projectLink : 'https://ourtoga.com/',
   tech : ['CodeIgniter-3', 'HTML', 'CSS', 'JS', 'Bootstrap'],
-  description : 'The landing page of BNSP Platform',
+  description : 'Ourtoga',
   modalContent :(
     <>
-      <p>I was being assinged to make landing page of BNSP platform on Ourtoga website.  I am using the stack such as
-      CodeIgniter-3, HTML, JS, Bootstrap, and jquery.</p>
+      <p>Developing a new feature and maintaing the website are the main job of the certification application web based. </p>
     </>
   )
  }

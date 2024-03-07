@@ -136,11 +136,11 @@ const experience = [
   },
   {
     title: "PT. Rajawali Konsulindo",
-    position: "Frontend Developer",
+    position: "Fullstack Developer",
     time: "Jan 2023 - Present",
     location: "West Jakarta",
     description:
-      "I am working as a Frontend developer and my tasks are making some design prototype for creating a new page, consume and implementing the REST-API by using AJAX, Axios or AlpineJS, create a new landing page or new a feature accroding the given draft, work well with other team like backend. Beside that my other task is to maintain and fix bug from bug report of the website ",
+      "I am working as a Frontend developer and my tasks are making some design prototype for creating a new page, consume and implementing the REST-API by using AJAX, Axios or AlpineJS, create a new landing page or new a feature accroding the given draft, work well with other team like backend. Beside that my other task is to maintain and fix bug from bug report of the website. During I am working as software developer in this company, I also take a good opportunity in learning finance like finance which deals with analyzing the financial aspect of a company, project or investment, and I have decent knownledge in finance. ",
     tech: [
       'Javascript',
       'CI',

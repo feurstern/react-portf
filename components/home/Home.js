@@ -7,7 +7,10 @@ import { About } from "./about/About";
 import { Projects } from "./projects/Projects";
 import { Experience } from "./experience/Experience";
 import { Contact } from "./contact/Contact";
-import {Organization} from './organization/Organization'
+import { Organization } from './organization/Organization'
+import Videobg from "./hero/Video-bg";
+import styles2 from "./hero/hero.module.scss"
+
 export const Home = () => {
   return (
     <>
@@ -15,11 +18,13 @@ export const Home = () => {
         <SideBar />
         <main>
           <Heading />
+          <Videobg>
+          </Videobg>
           <Hero />
           <About />
           <Projects />
           <Experience />
-          <Organization/>
+          <Organization />
           <Contact />
           <div
             style={{
