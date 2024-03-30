@@ -18,6 +18,9 @@ export const ProjectModal = ({
 }) => {
   useEffect(() => {
     const body = document.querySelector("body");
+    const getProjectDom = document.getElementById('main-modal');
+
+    // console.log('project dom', getProjectDom)
 
     if (isOpen) {
       body.style.overflowY = "hidden";
@@ -27,7 +30,7 @@ export const ProjectModal = ({
   }, [isOpen]);
 
   const content = (
-    <div className={styles.modal} onClick={() => setIsOpen(false)}>
+    <div id="main-modal" className={styles.modal} onClick={() => setIsOpen(false)}>
       <button className={styles.closeModalBtn}>
         <MdClose />
       </button>
