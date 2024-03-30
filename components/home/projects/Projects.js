@@ -126,6 +126,19 @@ const projects = [
       <p>Developing a new feature and maintaing the website are the main job of the certification application web based. </p>
     </>
   )
+ },
+ {
+  title : 'CBT Cross Platform',
+  imgSrc : 'project-imgs/cbt-dl.png',
+  code : '',
+  projectLink : 'https://cbt.ourtoga.com/download',
+  tech : ['CodeIgniter-3', 'HTML', 'CSS', 'JS', 'Bootstrap', 'Axios', 'Electron JS'],
+  description : 'Ourtoga',
+  modalContent :(
+    <>
+      <p>Created and implement a new platform of CBT versions for UNIX plaform </p>
+    </>
+  )
  }
  
  
