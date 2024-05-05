@@ -17,8 +17,8 @@ export const About = () => {
              Rio Kurniawan, usually people called me as Rio. I am tech and language enthusiast.
              So in order to realize my dream to become a decent developer, I have been working and learning for that
              for almost 2 years. My main focus in the field of game development, web developement through portfolio
-             and learning. So far I have a decent skill for web  game development(C#, Unity)
-             game developement such as HTML, CSS(Tailwind), JS(React, NextJS, NodeJS), I am typical person which never satisfy
+             and learning. So far I have a decent skill for game development(C#, Unity)
+             web  developement such as HTML, CSS(Tailwind), JS(React, NextJS, NodeJS), I am typical person which never satisfy
              with my skill, and I do reckon my skill is still nothing to compare.
 
             </p>
