@@ -112,7 +112,7 @@ const experience = [
   {
     title: "Timedoor Academy",
     position: "Private Programming Tutor",
-    time: "February 2023 - Present",
+    time: "February 2023 - March 2024",
     location: "Online",
     description:
       "I am doing part time job as a private programming tuto, I teach for web developemnt and game development",

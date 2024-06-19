@@ -33,8 +33,7 @@ export const About = () => {
           </Reveal> */}
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I do some volunteer activities for become a English Teacher in Depok.  
-              I teach English for the intermediate nearly advance level, and usually most of my student are highschool levels.
+              Outside of work, I do some volunteer activities for being an English Teacher and Computing Ambassador.  
               I do love teach something to someone, I reckon the more I teach the better I become. 
             </p>
           </Reveal>

@@ -40,11 +40,11 @@ const projects = [
         <p>The game is just only available for PC platform only which running Windows or Linux, and it requires decent GPU to run that game.</p>
         <p>
           Sypnosis :
-          “ Ria is a beautiful pale-skinned teenage high school girl with long dark purple hair, a delicate face, a thin build, average-sized breasts, curved hips. She is a mischievous and spoiled girl who is considered as a special child prodigy due to her IQ which is higher than average person, who is also regarded as the star of the school and have a good physical strenght to cover her from the exact circumstances. Being fairly cheerful and taunting, Ria's methods of classroom terrorism are the following: She likes to ask her teachers extremely difficult questions, knowing that  they’re not able to answer correctly. She does this because she likes making them look foolish in front of the class.
+           Ria is a beautiful pale-skinned teenage high school girl with long dark purple hair, a delicate face, a thin build, average-sized breasts, curved hips. She is a mischievous and spoiled girl who is considered as a special child prodigy due to her IQ which is higher than average person, who is also regarded as the star of the school and have a good physical strenght to cover her from the exact circumstances. Being fairly cheerful and taunting, Ria&apos;s methods of classroom terrorism are the following:
+            She likes to ask her teachers extremely difficult questions, knowing that  they&apos;re not able to answer correctly. She does this because she likes making them look foolish in front of the class.
 
-          So in the day dragged on, the clouds turns into a dark with the red mist by a sudden. Is this the end of the world? Or it’s just the only imagination for being madness – Ria’s thought.  For now only strenght and knowledge to against the horde of darkness that threaten every people in these lands. She march to turn the tables of these terrible and she even dare even one of them to test her intelligence and strength in single combat.
-
-          “
+          So in the day dragged on, the clouds turns into a dark with the red mist by a sudden. Is this the end of the world? Or it is s just the only imagination for being madness  Ria is thought.  
+          For now only strenght and knowledge to against the horde of darkness that threaten every people in these lands. She march to turn the tables of these terrible and she even dare even one of them to test her intelligence and strength in single combat.
         </p>
       </>
     ),
@@ -56,7 +56,7 @@ const projects = [
     projectLink: "https://youtu.be/P5wmlhGk6ws",
     tech: ["Unity", "VROID", "NaniNovel", "VisualNovel", "C#"],
     description:
-      "As players guide Cia through her daily routines and interactions, they'll witness her internal struggles and triumphs as she gradually opens up to the possibilities of her new surroundings. From quiet moments of introspection to heart-pounding encounters with classmates, each decision made by the player will shape Cia's journey and determine the course of her relationships.",
+      "As players guide Cia through her daily routines and interactions, they will witness her internal struggles and triumphs as she gradually opens up to the possibilities of her new surroundings. From quiet moments of introspection to heart-pounding encounters with classmates, each decision made by the player will shape Cia journey and determine the course of her relationships.",
     modalContent: (
       <>
         <p>
@@ -71,12 +71,12 @@ const projects = [
         </p>
         <p>
           Sypnosis :
-          “I am Alexandria, the third child of three siblings, and I am used to be called as Cia. I love to spend my spare time for reading history, dancing, and go on hiking. For me the world is so exquisite, and I have to find the reason why do I have born as me? Does God give me a chance to life just for notthing. I was borm and raised in the small rulal. But when I was reached to 15 years old, my family had to move to another place due to find the lebensraum.  I got no choice for that.
+          I am Alexandria, the third child of three siblings, and I am used to be called as Cia. I love to spend my spare time for reading history, dancing, and go on hiking. For me the world is so exquisite, and I have to find the reason why do I have born as me? Does God give me a chance to life just for notthing. I was borm and raised in the small rulal. But when I was reached to 15 years old, my family had to move to another place due to find the lebensraum.  I got no choice for that.
           munc
           You know when itt comes to liviing in the new municipal, in conclusion I have to adapt with the current circumstances which is for me it;s just like opening a new blank page for me, and I have to start from zero.
 
-          I spend my most time at the school and I want you to help me to conquest a reserved and introverted teenager who finds herself uprooted from her familiar surroundings and thrust into a new school environment. Struggling to adapt to this sudden change, Emily must navigate the challenges of forging new friendships, facing social anxieties, and discovering her place in an unfamiliar world.
-          ”
+          I spend my most time at the school and I want you to help me to conquest a reserved and introverted teenager who finds herself uprooted from her familiar surroundings and thrust into a new school environment. Struggling to adapt to this sudden change, I must navigate the challenges of forging new friendships, facing social anxieties, and discovering  place in an unfamiliar world.
+        
         </p>
       </>
     ),
@@ -117,7 +117,7 @@ const projects = [
   {
     title: 'FRAC Website',
     imgSrc: 'project-imgs/frac.png',
-    code: '"https://github.com/feurstern/fracs-react',
+    code: 'https://github.com/feurstern/fracs-react',
     projectLink: 'https://dev.fracs.id/',
     tech: ['NextJS', 'HTML', 'Sass', 'Antd', 'SwiperJS', 'Axios', 'Tailwind', 'Git', 'JSON'],
     description: 'The Web Certification of FRAC.',
