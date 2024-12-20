@@ -258,12 +258,12 @@ const projects = [
         <p>
           One of the efforts to prevent corruption in the Local Government is
           through the Integrated Corruption Prevention program. This program is
-          an implementation of the KPK/CEC (Corruption Eradication Commision)’s
+          an implementation of the KPK/CEC (Corruption Eradication Commision)&apos;s
           duty in coordinating and monitoring the efforts of corruption
           prevention which is conducted by the Local Government. In order to
           prevent corruption in the local area, KPK is collaborating with the
           Ministry of Home Affairs, Ministry of State Apparatus Utilization and
-          Bureaucratic Reform, Indonesia’s National Government Internal Auditor,
+          Bureaucratic Reform, Indonesia&apos;s National Government Internal Auditor,
           and any other related Ministries/Institutions. The implementation of
           the corruption prevention in the Local Government is carried out
           through this following steps: 1. Identification of vulnerable points
