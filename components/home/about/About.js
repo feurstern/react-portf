@@ -13,14 +13,14 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-             Anyway thanks for your interest to look up my profile. My name is Muhammad
-             Rio Kurniawan, usually people called me as Rio. I am tech and language enthusiast.
-             So in order to realize my dream to become a decent developer, I have been working and learning for that
-             for almost 2 years. My main focus in the field of game development, web developement through portfolio
-             and learning. So far I have a decent skill for game development(C#, Unity)
-             web  developement such as HTML, CSS(Tailwind), JS(React, NextJS, NodeJS), I am typical person which never satisfy
-             with my skill, and I do reckon my skill is still nothing to compare.
-
+              Anyway thanks for your interest to look up my profile. My name is
+              Muhammad Rio Kurniawan, usually people called me as Rio. I am tech
+              and language enthusiast. So in order to realize my dream to become
+              a decent developer, I have been working and learning for that for
+              almost 3 years. My main focus in the field of game development,
+              web developement through portfolio and learning. So far I have a
+              decent skill for game development, web developement, and basic
+              machine learnig.
             </p>
           </Reveal>
           {/* <Reveal>
@@ -33,14 +33,15 @@ export const About = () => {
           </Reveal> */}
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I do some volunteer activities for being an English Teacher and Computing Ambassador.  
-              I do love teach something to someone, I reckon the more I teach the better I become. 
+              Outside of work, I do some volunteer activities for being an
+              English Teacher and Computing Ambassador. I do love teach
+              something to someone, I reckon the more I teach the better I
+              become.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-             I just want to become better and better!
-              🔗
+              I just want to become better and better! 🔗
             </p>
           </Reveal>
           <Reveal>

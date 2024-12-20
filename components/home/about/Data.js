@@ -1,24 +1,30 @@
 export const useAtWork = [
-    'JavaScript', 
-    'NodeJS',
-    'PHP',
-    'CodeIgniter-3',
-    'NextJS',
-    'MySQL',
-    'Git',
-    'Jira',
-    'React',
-    'Express',
-    'Unity',
-    'C#',
-    'Tailwind',
-]
+  "JavaScript",
+  "NodeJS",
+  "PHP",
+  "CodeIgniter-3",
+  "NextJS",
+  "MySQL",
+  "Git",
+  "Jira",
+  "React",
+  "Express",
+  "Unity",
+  "C#",
+  "Tailwind",
+  "Vue JS",
+  "Phalcon",
+  "Typescript",
+  "Vue JS",
+  "Phalcon",
+  "Quasar",
+];
 
-export const useForFun  =[
-    'GDScript',
-    'Godot',
-    'Python',
-    'PhaserJS',
-    'C++',
-    'Typescript'
-]
+export const useForFun = [
+  "GDScript",
+  "Godot",
+  "Python",
+  "PhaserJS",
+  "C++",
+  "C",
+];

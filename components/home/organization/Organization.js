@@ -52,7 +52,7 @@ const organization = [
   {
     title: "Computing Ambassador",
     position: "English Teacher",
-    time: "March 2024 - Present",
+    time: "March 2024 - November 2024",
     location: "Online",
     description:
       "As a Computing Ambassador, my primary task is to encourage, develop young people is digital skills and literacy, and inspire the young people to become the next generation of programmer or any role field that related with computer by conducting the STEM Camp and STEM Expo through a series of explorative activities, collaborative projects and fun practical learning. ",
@@ -67,7 +67,22 @@ const organization = [
       // "K8s",
     ],
   },
-
-
-
+  {
+    title: "Forpasi",
+    position: "Web Consultant",
+    time: "August 2024 - September 2024",
+    location: "Online",
+    description:
+      "As a Computing Ambassador, my primary task is to encourage, develop young people is digital skills and literacy, and inspire the young people to become the next generation of programmer or any role field that related with computer by conducting the STEM Camp and STEM Expo through a series of explorative activities, collaborative projects and fun practical learning. ",
+    tech: [
+      // "Angular",
+      // "Python",
+      // "GCP",
+      // "Git",
+      // "GitHub",
+      // "Java",
+      // "Golang",
+      // "K8s",
+    ],
+  },
 ];
