@@ -19,7 +19,7 @@ const experience = [
     time: " December 2019 - June 2022",
     location: "Pondok Ungu, North Bekasi",
     description:
-      "This is my first job and I learnt so much during my work time, for example for being confident. I taught for Design and IT(Simdig) subject for all the classes and I alsoe become IT support.",
+      "This is my first job, and I have learned so much during my time here, such as how to be confident. I taught Design and IT (Simdig) to all the classes, and I also became an IT support specialist.",
     tech: ["Photoshop", "Illustrator", "Ms Office", "2d animation"],
   },
   {
@@ -28,7 +28,7 @@ const experience = [
     time: " August 2021 - October 2021",
     location: "Rawalumbu, East Bekasi",
     description:
-      "I was teaching Digital Marketing as subitute teacher and I use blogspot, mailchimp to promote the product, and also the copywriting one",
+      " was teaching Digital Marketing as a substitute teacher, and I used Blogspot and Mailchimp to promote the product, as well as doing copywriting.",
     tech: ["Mailchimp", "Blogspot", "Copywrting", "flyer", "design"],
   },
   {
@@ -37,7 +37,7 @@ const experience = [
     time: " June 2021 - June 2022",
     location: "Grand Wisata, South Tambun",
     description:
-      "I teach about microcontroller like arduino. I simply focus to teach how to create a simple prototype by using certain of sensor that will be quite usefull for daily basis. ",
+      "  teach about microcontrollers, like Arduino, focusing on how to create simple prototypes using various sensors that can be useful for daily life",
     tech: [
       "C++",
       "Microcontroller",
@@ -60,7 +60,7 @@ const experience = [
     time: " June 2021 - June 2022",
     location: "East Jakarta",
     description:
-      "I teach for the Prakarya subject that I prefer to use IT as the handmade, and I teach for web development especially frontend such HTML/CSS/Javascript",
+      " teach the Prakarya subject, where I prefer to incorporate IT into handmade projects. I also teach web development, focusing on frontend technologies like HTML, CSS, and JavaScript.",
     tech: [
       "HTML",
       "CSS",
@@ -84,7 +84,7 @@ const experience = [
     time: " July 2022 - January 2023",
     location: "Harapan Indah, North Bekasi",
     description:
-      "I teach for ICT subject which is using the international curricullum named as Edumedia, and beside being teacher I also become IT Support, and everyting that related with IT such as maintenance, assembling the part of computer, and even being technician + proctocl for ANBK's assessment",
+      "I teach the ICT subject, which uses an international curriculum called Edumedia. Besides being a teacher, I also serve as IT Support, handling everything related to IT, such as maintenance, assembling computer parts, and even working as a technician and proctor for the ANBK assessment.",
     tech: [
       "Edumedia",
       "Cambridge",
@@ -109,7 +109,7 @@ const experience = [
     time: "February 2023 - March 2024",
     location: "Online",
     description:
-      "I am doing part time job as a private programming tuto, I teach for web developemnt and game development",
+      "I am doing part time job as a private programming tutor, I teach for web developemnt and game development",
     tech: [
       "Javascript",
       "CoSpace",
@@ -177,7 +177,8 @@ const experience = [
       "AWS S3",
       "HTML",
       "CSS",
-      "Vue JS",,
+      "Vue JS",
+      ,
       "Figma",
       "Postgres",
       "Phalcon",
@@ -185,7 +186,7 @@ const experience = [
       "Git",
       "Laravel",
       "Docker",
-      "Typescript", 
+      "Typescript",
     ],
   },
 ];

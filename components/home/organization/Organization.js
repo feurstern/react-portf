@@ -73,7 +73,7 @@ const organization = [
     time: "August 2024 - September 2024",
     location: "Online",
     description:
-      "As a Computing Ambassador, my primary task is to encourage, develop young people is digital skills and literacy, and inspire the young people to become the next generation of programmer or any role field that related with computer by conducting the STEM Camp and STEM Expo through a series of explorative activities, collaborative projects and fun practical learning. ",
+      "My main job is to provide feedback and suggestions for developing the website, which includes UI/UX design, functionality, and analysis, in order to deliver a high-quality website that effectively communicates the right message to the audience. ",
     tech: [
       // "Angular",
       // "Python",

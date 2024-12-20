@@ -7,6 +7,7 @@ export const Projects = () => {
     <section className="section-wrapper" id="projects">
       <SectionHeader title="Projects" dir="r" />
 
+      {/* this is how we want to pass the props to child component or another component */}
       <div className={styles.projects}>
         {projects.map((project) => {
           return <Project key={project.title} {...project} />;
@@ -252,26 +253,28 @@ const projects = [
     code: "",
     projectLink: "https://jaga.id/",
     tech: ["Quasar", "Vue 2 JS", "CSS", "Docker", "Phalcon", "Postgress"],
-    description: "rj cons",
+    description:
+      "One of the efforts to prevent corruption in the Local Government is",
     modalContent: (
       <>
         <p>
           One of the efforts to prevent corruption in the Local Government is
           through the Integrated Corruption Prevention program. This program is
-          an implementation of the KPK/CEC (Corruption Eradication Commision)&apos;s
-          duty in coordinating and monitoring the efforts of corruption
-          prevention which is conducted by the Local Government. In order to
-          prevent corruption in the local area, KPK is collaborating with the
-          Ministry of Home Affairs, Ministry of State Apparatus Utilization and
-          Bureaucratic Reform, Indonesia&apos;s National Government Internal Auditor,
-          and any other related Ministries/Institutions. The implementation of
-          the corruption prevention in the Local Government is carried out
-          through this following steps: 1. Identification of vulnerable points
-          of corruption in the central or local level; 2. Declaration and Sign
-          the Integrated Corruption Eradication Commitment by the regional head;
-          3. Drafting and Determination of the Local Government Integrated
-          Corruption Eradication Action Plan; and 4. Monitoring and evaluating
-          the Integrated Corruption Eradication Action Achievement.
+          an implementation of the KPK/CEC (Corruption Eradication
+          Commision)&apos;s duty in coordinating and monitoring the efforts of
+          corruption prevention which is conducted by the Local Government. In
+          order to prevent corruption in the local area, KPK is collaborating
+          with the Ministry of Home Affairs, Ministry of State Apparatus
+          Utilization and Bureaucratic Reform, Indonesia&apos;s National
+          Government Internal Auditor, and any other related
+          Ministries/Institutions. The implementation of the corruption
+          prevention in the Local Government is carried out through this
+          following steps: 1. Identification of vulnerable points of corruption
+          in the central or local level; 2. Declaration and Sign the Integrated
+          Corruption Eradication Commitment by the regional head; 3. Drafting
+          and Determination of the Local Government Integrated Corruption
+          Eradication Action Plan; and 4. Monitoring and evaluating the
+          Integrated Corruption Eradication Action Achievement.
         </p>
       </>
     ),
@@ -283,7 +286,7 @@ const projects = [
     code: "",
     projectLink: "https://jaga.id/",
     tech: ["Quasar", "Vue 3 TS", "CSS", "Docker", "Laravel", "Sleekdb"],
-    description: "rj cons",
+    description: "Integrating the different modules into one system. ",
     modalContent: (
       <>
         <p>
