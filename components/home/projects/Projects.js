@@ -288,7 +288,7 @@ const projects = [
       <>
         <p>
           Integrating the different modules into one system. The stakeholder of
-          Koordinasi dan Supervisi's Deputy immensly interested in building
+          Koordinasi dan Supervisi&apos;s Deputy immensly interested in building
           their core system purposefully. They just want to make the output
           based on the data in order to help them to make the decision about
           what should they have to do to deal with the exact circumstances. The
