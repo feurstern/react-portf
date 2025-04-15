@@ -189,4 +189,32 @@ const experience = [
       "Typescript",
     ],
   },
+
+  {
+    title: "PT Meditech Core ",
+    position: "Software Engineer ",
+    time: "January 2025 - Present",
+    location: "Jakarta",
+    description: `I am currently working as a software Engineer, I create and develop various
+application, especially specializes in creating software applications that manage and
+interact with a company's network infrastructure, including virtual private servers
+(VPS), essentially designing and implementing solutions to optimize network
+performance, security, and scalability across virtualized environments.`,
+    tech: [
+      "Typescript",
+      "CI/CD",
+      "AWS S3",
+      "HTML",
+      "CSS",
+      "React/Nexjts",
+      "Figma",
+      "Laravel 11",
+      "Phalcon",
+      "NodeJS",
+      "Git",
+      "CI/CD",
+      "Docker",
+      "Midtrans",
+    ],
+  },
 ];

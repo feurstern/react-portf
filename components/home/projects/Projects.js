@@ -302,4 +302,46 @@ const projects = [
       </>
     ),
   },
+  {
+    title: "Ladara E-Commerce",
+    imgSrc: "project-imgs/e-koorsup.png",
+    code: "",
+    projectLink: "beta.ladara.id",
+    tech: [
+      "NextJS",
+      "Laravel 11",
+      "Tailwind",
+      "Docker",
+      "Postgres",
+      "CI/CD",
+      "Redux",
+      "Midtrans",
+      "Biteship",
+      "JWT",
+    ],
+    description: "E-commerce for the local UMKM and Store ",
+    modalContent: (
+      <>
+        <p>
+          Integrating the different modules into one system. The stakeholder of
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title: "Polimeritas Website",
+    imgSrc: "project-imgs/e-koorsup.png",
+    code: "",
+    projectLink: "https://www.polimeritas.com/",
+    tech: ["HTML", "CSS", "Javascript", "Jquery"],
+    description: "Website for the local community of Polimer ",
+    modalContent: (
+      <>
+        <p>
+          Integrating the different modules into one system. The stakeholder of
+        </p>
+      </>
+    ),
+  },
 ];
